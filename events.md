@@ -1,8 +1,9 @@
 # Alliance events
-It is a team game, so it's very important to contribute as much as you can to teh alliance events.
+It is a team game, so it's very important to contribute as much as you can to the alliance events.
 It's not nessesary to be online 24/7 and spend crystals to do alliance miniimums. 
 The key point is to prepare and play smart:)
-Here some tips how to be most efficient in th events:
+Here some tips how to be most efficient in the events:
+
 ## The Common Good
 In this event we need to issue edicts. 
 Every 4 hours edicts are updated. You can buy for alliance points "issue new edicts" in alliance store.
@@ -12,9 +13,8 @@ If you have statue tell lords day in advance so we can recalculate minimums.
 ## The Time of War 
 War event - attack cities and bastions, camps and treasures **do not give points**.
 If you participate - put cheap first lvl god troops on the wall.
-
-**DO NOT PUT EPICS**  till other alliances open lvl 2 god they will attack us with efrrets mostly 
-and gain more points on us if we use only water.
+**DO NOT PUT EPICS ON THE WALL**  till other alliances open lvl 2 god. They will attack us with efrrets mostly 
+and gain more points on us.
 
 ## Trade Mission 
 Very important event. We send ships and gain tablets for god upgrades.
