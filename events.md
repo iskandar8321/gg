@@ -6,8 +6,8 @@ Here some tips how to be most efficient in the events:
 
 ## The Common Good
 In this event we need to issue edicts. 
-Every 4 hours edicts are updated. You can buy for alliance points "issue new edicts" in alliance store.
-If you have statue tell lords day in advance so we can recalculate minimums.
+Every 4 hours edicts are updated. You can buy  "issue new edicts" for alliance points in alliance store.
+If you have statue tell lords day in advance so we can prepare better.
 **Tip** update you edicts level to 10 as fast as possible.
 
 ## The Time of War 
