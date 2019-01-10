@@ -27,7 +27,7 @@ They are the prize for top contributors:
 
 3-d - 3 hours.
 
-##  Alliance Rules
+##  Rules
 - *Speedups in alliance store are forbiden to buy*;
 - check alliance wall regulary;
 - do minimals in events;
