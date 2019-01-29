@@ -34,14 +34,14 @@ They are the prize for top contributors:
 - follow bannerlords orders;
 - 3 days offline without a reason - kick;
 
-###Weekly minimals:
+### Weekly minimals:
 - do minimals at least in 4 alliance event;
 - donate 5 tablets OR 10 times help in port.
 
-###Promote to knight:
+### Promote to knight:
  - donate 10 tablets or 15 times help in port.
  
-###Punishment
+### Punishment
 
 first time - rank demote;
 
