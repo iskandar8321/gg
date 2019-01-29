@@ -30,6 +30,7 @@ They are the prize for top contributors:
 ##  Rules
 - *Speedups in alliance store are forbiden to buy*;
 - check alliance wall regulary;
+- follow NAPs;
 - follow bannerlords orders;
 - 3 days offline without a reason - kick;
 
@@ -40,4 +41,8 @@ They are the prize for top contributors:
 ###Promote to knight:
  - donate 10 tablets or 15 times help in port.
  
- 
+###Punishment
+
+first time - rank demote;
+
+second time - expel.
