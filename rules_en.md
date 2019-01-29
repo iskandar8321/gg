@@ -30,10 +30,14 @@ They are the prize for top contributors:
 ##  Rules
 - *Speedups in alliance store are forbiden to buy*;
 - check alliance wall regulary;
-- do minimals in events;
 - follow bannerlords orders;
-- have fun:).
- 
- 
+- 3 days offline without a reason - kick;
+
+###Weekly minimals:
+- do minimals at least in 4 alliance event;
+- donate 5 tablets OR 10 times help in port.
+
+###Promote to knight:
+ - donate 10 tablets or 15 times help in port.
  
  
