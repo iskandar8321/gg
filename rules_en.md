@@ -33,6 +33,7 @@ They are the prize for top contributors:
 - follow NAPs;
 - follow bannerlords orders;
 - 3 days offline without a reason - kick;
+- only lords allowed to accept new players;
 
 ### Weekly minimals:
 - do minimals at least in 4 alliance event;
